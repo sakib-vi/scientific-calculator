@@ -15,6 +15,17 @@ A command-line scientific calculator written in C, designed to perform common ar
 - Modular C project structure
 - Cross-platform build support through Makefile
 
+
+## Screenshots
+
+### Main Interface
+
+![Scientific Calculator](screenshots/calculator-main.png)
+
+### Example Calculation
+
+![Calculator Operation](screenshots/calculator-operation.png)
+
 ## Project Structure
 
 ```text
