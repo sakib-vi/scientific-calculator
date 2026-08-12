@@ -20,7 +20,7 @@ A command-line scientific calculator written in C, designed to perform common ar
 
 ### Main Interface
 
-![Calculator Operation](screenshots/WhatsApp%20Image%202026-08-12%20at%204.38.03%20PM.jpeg)
+![Calculator Operation](WhatsApp%20Image%202026-08-12%20at%204.38.03%20PM.jpeg)
 
 
 
