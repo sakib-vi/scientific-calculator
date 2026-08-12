@@ -1,81 +1,32 @@
-# 🧮 Scientific C Calculator
+# Scientific Calculator
 
-A modular, menu-driven scientific calculator built with **C (C11)**.
+A command-line scientific calculator written in C, designed to perform common arithmetic and scientific mathematical operations.
 
-The project demonstrates fundamental C programming concepts, modular software design, mathematical operations, input validation, error handling, and basic build automation using **GNU Make**.
+## Features
 
----
+- Basic arithmetic operations
+- Scientific calculations
+- Trigonometric functions
+- Logarithmic functions
+- Power and root calculations
+- Interactive command-line interface
+- Modular C project structure
+- Cross-platform build support through Makefile
 
-## 📸 Preview
-
-![Scientific Calculator Demo](screenshots/demo.png)
-
----
-
-## ✨ Features
-
-### Basic Operations
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Division-by-zero protection
-
-### Scientific Operations
-- Power calculation (`x^y`)
-- Square root
-- Sine
-- Cosine
-- Tangent
-- Natural logarithm (`ln`)
-- Logarithm base 10 (`log10`)
-- Factorial (`n!`)
-- Percentage calculation
-
-### Input & Error Handling
-- Integer input validation
-- Floating-point input validation
-- Operator validation
-- Negative square-root protection
-- Invalid logarithm input protection
-- Factorial range validation
-- Division-by-zero protection
-
-### Project Features
-- Modular C architecture
-- Separate source files for each calculator module
-- Header file for function declarations
-- GNU Make build system
-- `.gitignore`
-- MIT License
-- Cross-platform source code
-
----
-
-## 📁 Project Structure
+## Project Structure
 
 ```text
 scientific-calculator/
-│
 ├── include/
-│   └── calculator.h
-│
+│   └── Header files
 ├── src/
-│   ├── main.c
-│   ├── basic_calculator.c
-│   ├── power_calculator.c
-│   ├── sqrt_calculator.c
-│   ├── trig_calculator.c
-│   ├── log_calculator.c
-│   ├── factorial_calculator.c
-│   ├── percentage_calculator.c
-│   └── utils.c
-│
+│   └── Source files
 ├── screenshots/
-│   └── demo.png
-│
+│   └── Project screenshots
+├── .github/
+│   └── workflows/
 ├── .gitignore
+├── CONTRIBUTING.md
 ├── LICENSE
 ├── Makefile
-├── README.md
-└── CONTRIBUTING.md
+└── README.md
