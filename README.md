@@ -1,3 +1,5 @@
+[![Build](https://github.com/sakib-vi/scientific-calculator/actions/workflows/build.yml/badge.svg)](https://github.com/sakib-vi/scientific-calculator/actions/workflows/build.yml)
+
 # Scientific Calculator
 
 A command-line scientific calculator written in C, designed to perform common arithmetic and scientific mathematical operations.
