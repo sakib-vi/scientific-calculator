@@ -20,11 +20,13 @@ A command-line scientific calculator written in C, designed to perform common ar
 
 ### Main Interface
 
-![Scientific Calculator](screenshots/IMG_1240.PNG)
+![Calculator Operation](screenshots/WhatsApp%20Image%202026-08-12%20at%204.38.03%20PM.jpeg)
+
+
 
 ### Example Calculation
 
-![Calculator Operation](screenshots/WhatsApp%20Image%202026-08-12%20at%204.38.03%20PM.jpeg)
+![Scientific Calculator](screenshots/IMG_1240.PNG)
 
 ## Project Structure
 
