@@ -26,7 +26,7 @@ A command-line scientific calculator written in C, designed to perform common ar
 
 ### Example Calculation
 
-![Scientific Calculator](screenshots/IMG_1240.PNG)
+![Scientific Calculator](IMG_1240.PNG)
 
 ## Project Structure
 
@@ -36,12 +36,11 @@ scientific-calculator/
 │   └── Header files
 ├── src/
 │   └── Source files
-├── screenshots/
-│   └── Project screenshots
 ├── .github/
 │   └── workflows/
 ├── .gitignore
 ├── CONTRIBUTING.md
 ├── LICENSE
 ├── Makefile
-└── README.md
+├── README.md
+└── Project screenshots
