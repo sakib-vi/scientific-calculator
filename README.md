@@ -16,18 +16,6 @@ A command-line scientific calculator written in C, designed to perform common ar
 - Cross-platform build support through Makefile
 
 
-## Screenshots
-
-### Main Interface
-
-![Calculator Operation](WhatsApp%20Image%202026-08-12%20at%204.38.03%20PM.jpeg)
-
-
-
-### Example Calculation
-
-![Scientific Calculator](IMG_1240.PNG)
-
 ## Project Structure
 
 ```text
@@ -44,3 +32,15 @@ scientific-calculator/
 ├── Makefile
 ├── README.md
 └── Project screenshots
+
+
+### Main Interface
+
+![Calculator Operation](WhatsApp%20Image%202026-08-12%20at%204.38.03%20PM.jpeg)
+
+
+
+### Example Calculation
+
+![Scientific Calculator](IMG_1240.PNG)
+
